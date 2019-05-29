@@ -1,2 +1,7 @@
+
+print ("Hello world!");
+print ("Hello kitty!");
+print ("Hello pussy!");
+print ("Hello dick!");
 print ("Hello world!;");
 print ("Hello kitty!;");
